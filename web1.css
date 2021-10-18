@@ -1,0 +1,30 @@
+#contenedor{
+    background-color: burlywood;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    align-items: stretch;
+}
+
+#caja1{
+    background-color: cadetblue;
+    width: 100px;
+}
+
+#caja2{
+    background-color: coral;
+    width: 100px;
+}
+
+#caja3{
+    background-color: crimson;
+    width: 100px;
+}
+
+#caja4{
+    background-color: darkmagenta;
+    width: 100px;
+}
+
+
